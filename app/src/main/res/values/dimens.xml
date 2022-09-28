@@ -35,4 +35,5 @@
     <dimen name="pj_music_64dp">64dp</dimen>
     <dimen name="pj_music_70dp">70dp</dimen>
     <dimen name="pj_music_100dp">100dp</dimen>
+    <dimen name="ellipsebutton_large_corner">30dp</dimen>
 </resources>
